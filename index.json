@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "updatedAt": "2026-01-23",
+  "items": [
+    {
+      "id": "example-pdf",
+      "title": "Example PDF Document",
+      "type": "pdf",
+      "url": "pdf/example.pdf",
+      "description": "Sample PDF with lorem ipsum text",
+      "updatedAt": "2026-01-23"
+    },
+    {
+      "id": "example-doc",
+      "title": "Example Google Doc",
+      "type": "gdoc",
+      "url": "https://docs.google.com/document/d/EXAMPLE/view",
+      "description": "Placeholder link for a public Google Doc",
+      "updatedAt": "2026-01-23"
+    },
+    {
+      "id": "example-sheet",
+      "title": "Example Google Sheet",
+      "type": "gsheet",
+      "url": "https://docs.google.com/spreadsheets/d/EXAMPLE/pubhtml",
+      "description": "Placeholder link for a public Google Sheet",
+      "updatedAt": "2026-01-23"
+    }
+  ]
+}
